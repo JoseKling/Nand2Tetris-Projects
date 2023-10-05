@@ -1,0 +1,19 @@
+// class Main {        | Line 9
+// function void main() {        | Line 10
+// var SquareGame game;        | Line 11
+// let game = SquareGame.new();        | Line 12
+function Main.main 1
+call SquareGame.new 0
+pop local 0
+// do game.run();        | Line 13
+push local 0
+call SquareGame.run 1
+pop temp 0
+// do game.dispose();        | Line 14
+push local 0
+call SquareGame.dispose 1
+pop temp 0
+// return;        | Line 15
+push constant 0
+return
+// }        | Line 16

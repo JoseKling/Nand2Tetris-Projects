@@ -1,0 +1,9 @@
+Symbol,Value
+null, "b000"
+M, "b001"
+D, "b010"
+DM, "b011"
+A, "b100"
+AM, "b101"
+AD, "b110"
+ADM, "b111"

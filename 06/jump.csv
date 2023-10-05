@@ -1,0 +1,9 @@
+Symbol,Value
+null, "b000"
+JGT, "b001"
+JEQ, "b010"
+JGE, "b011"
+JLT, "b100"
+JNE, "b101"
+JLE, "b110"
+JMP, "b111"
