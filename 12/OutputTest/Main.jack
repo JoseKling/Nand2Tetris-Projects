@@ -13,7 +13,14 @@ class Main {
     
     	let s = String.new(1);
     	do s.appendChar(String.doubleQuote());
-    
+
+        do Output.moveCursor(11,0);
+        do Output.printChar(65);
+        do Output.printChar(65);
+        do Output.printChar(65);
+        do Output.printChar(65);
+        do Output.printChar(65);
+        do Output.printChar(65);
         do Output.moveCursor(0, 63);
         do Output.printChar(66);
         do Output.moveCursor(22, 0);
